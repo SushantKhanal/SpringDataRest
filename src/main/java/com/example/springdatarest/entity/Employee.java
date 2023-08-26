@@ -1,4 +1,4 @@
-package com.example.restcrud.entity;
+package com.example.springdatarest.entity;
 
 import jakarta.persistence.*;
 
